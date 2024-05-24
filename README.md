@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **venkateshkalamalla@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1k-wds0O238XlA_SnKOEK773kham8cZMA/view?usp=drive_link](https://drive.google.com/file/d/1k-wds0O238XlA_SnKOEK773kham8cZMA/view?usp=drive_link)
+- 📄 Resume Link: [https://drive.google.com/file/d/1k-wds0O238XlA_SnKOEK773kham8cZMA/view?usp=drive_link](https://drive.google.com/file/d/1k-wds0O238XlA_SnKOEK773kham8cZMA/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
