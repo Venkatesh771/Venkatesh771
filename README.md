@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Venkateswar Reddy K</h1>
 <h3 align="center">A passionate Web-Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatesh771&label=Profile%20views&color=0e75b6&style=flat" alt="venkatesh771" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=venkatesh771&label=Profile%20views&color=0e75b6&style=flat" alt="venkatesh771" /> </p>
 
 
 - 📫 Reach with Mail: **venkateshkalamalla@gmail.com**
