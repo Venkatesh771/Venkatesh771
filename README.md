@@ -5,8 +5,8 @@
 
 
 - 📫 Reach with Mail: **venkateshkalamalla@gmail.com**
-- 
-- <a href="https://drive.google.com/file/d/1k-wds0O238XlA_SnKOEK773kham8cZMA/view?usp=sharing">Check Resume.</a>
+  
+<p><a href="https://drive.google.com/file/d/1k-wds0O238XlA_SnKOEK773kham8cZMA/view?usp=sharing" style="text-decoration: none; color: rgb(255, 0, 51);">Check Resume</a></p>
 
 - <p align="left"> <a href="https://twitter.com/venkatreddy798" target="blank"><img src="https://img.shields.io/twitter/follow/venkatreddy798?logo=twitter&style=for-the-badge" alt="venkatreddy798" /></a> </p>
 
