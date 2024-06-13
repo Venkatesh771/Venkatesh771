@@ -7,7 +7,7 @@
 - 📫 Reach with Mail: **venkateshkalamalla@gmail.com**
 
 - 📄 Resume Link: [https://drive.google.com/file/d/1k-wds0O238XlA_SnKOEK773kham8cZMA/view?usp=drive_link](https://drive.google.com/file/d/1k-wds0O238XlA_SnKOEK773kham8cZMA/view?usp=drive_link)
-- <a>Venkat</a>
+- <a href="[https://drive.google.com/file/d/1k-wds0O238XlA_SnKOEK773kham8cZMA/view?usp=drive_link](https://drive.google.com/file/d/1k-wds0O238XlA_SnKOEK773kham8cZMA/view?usp=drive_link)">Resume</a>
 
 - <p align="left"> <a href="https://twitter.com/venkatreddy798" target="blank"><img src="https://img.shields.io/twitter/follow/venkatreddy798?logo=twitter&style=for-the-badge" alt="venkatreddy798" /></a> </p>
 
