@@ -6,7 +6,7 @@
 
 - 📫 Reach with Mail: **venkateshkalamalla@gmail.com**
 - <p><a href="https://drive.google.com/file/d/1k-wds0O238XlA_SnKOEK773kham8cZMA/view?usp=sharing">Check Resume</a></p>
-- <p align="left"> <a href="https://twitter.com/venkatreddy798" target="blank"><img src="https://img.shields.io/twitter/follow/venkatreddy798?logo=twitter&style=for-the-badge" alt="venkatreddy798" /></a> </p>
+- <p align="left"> <a href="https://x.com/VenkatReddy798?t=s2RMRwd3INIOIbHrLqZ8wQ&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/venkatreddy798?logo=twitter&style=for-the-badge" alt="venkatreddy798" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
