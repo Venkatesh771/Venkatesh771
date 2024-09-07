@@ -7,7 +7,6 @@
 - 📫 Reach with Mail: **kalamallavenkateswarreddy@gmail.com**
 - <p><a href="https://drive.google.com/file/d/1JvQO2jQ9sLUXsgljLuIqnFEpp0ie8M3-/view?usp=sharing">Check Resume</a></p>
 - <p><a href="https://venkateswar.site/">Check Portfolio</a></p>
-- <p align="left"> <a href="https://x.com/VenkatReddy798?t=s2RMRwd3INIOIbHrLqZ8wQ&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/venkatreddy798?logo=twitter&style=for-the-badge" alt="venkatreddy798" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
