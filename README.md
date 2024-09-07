@@ -5,7 +5,7 @@
 
 
 - 📫 Reach with Mail: **kalamallavenkateswarreddy@gmail.com**
-- <p><a href="https://drive.google.com/file/d/1JvQO2jQ9sLUXsgljLuIqnFEpp0ie8M3-/view?usp=sharing">Check Resume</a></p>
+- <p><a href="https://drive.google.com/file/d/1JvQO2jQ9sLUXsgljLuIqnFEpp0ie8M3-/view?usp=sharing" style="text-decoration:none">Check Resume</a></p>
 - <p><a href="https://venkateswar.site/">Check Portfolio</a></p>
 
 <h3 align="left">Connect with me:</h3>
