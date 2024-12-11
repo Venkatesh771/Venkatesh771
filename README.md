@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=venkatesh771&label=Profile%20views&color=0e75b6&style=flat" alt="venkatesh771" /> </p>
 
 - 📫 Reach with Mail: **kalamallavenkateswarreddy@gmail.com**
-- <p><a href="https://drive.google.com/file/d/1JvQO2jQ9sLUXsgljLuIqnFEpp0ie8M3-/view?usp=sharing">Check Resume</a></p>
+- <p><a href="https://drive.google.com/file/d/1MGL0LkyUq5h7cgTJZ6xZL2YsoW_42-cD/view?usp=sharing">Check Resume</a></p>
 - <p><a href="https://venkateswar.site/">Check Portfolio</a></p>
 
 <h3 align="left">Connect with me:</h3>
